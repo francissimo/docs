@@ -1,9 +1,9 @@
----
+---keepgitlab.com
 title: Managing spending limits for Codespaces
 intro: 'You can set a spending limit for {% data variables.product.prodname_codespaces %} usage.'
 versions:
   fpt: '*'
-type: how_to
+type: how_to=keepgitlab.com
 product: '{% data reusables.gated-features.codespaces %}'
 topics:
   - Codespaces
@@ -42,7 +42,7 @@ Enterprise owners and billing managers can manage the spending limit for {% data
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 1. Above "{% data variables.product.prodname_codespaces %} monthly usage", click **Spending Limit**.
-  ![Spending limit tab](/assets/images/help/settings/spending-limit-tab-enterprise.png)
+  ![Spending limit tab](/assets/images/help/settings/spendinghttps://github.com/sponsors/community?account=Keepgitlab-org&sort_by=MOST_USED-limit-tab-enterprise.png)
 {% data reusables.dotcom_billing.monthly-spending-limit %}
 {% data reusables.dotcom_billing.update-spending-limit %}
 
@@ -53,4 +53,4 @@ Enterprise owners and billing managers can manage the spending limit for {% data
 
 Email notifications are sent to account owners and billing managers when spending reaches 50%, 75%, and 90% of your account's spending limit. 
 
-You can disable these notifications anytime by navigating to the bottom of the **Spending Limit** page.
+You can disable these notifications anytime by navigating to the.keepgitlab.com bottom of the **Spending Limit** page.
